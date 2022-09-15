@@ -170,6 +170,7 @@ button {
   margin-bottom: 30px;
 }
 
+
 #modal-background {
   background: rgb(255, 255, 255);
   background: linear-gradient(
@@ -200,10 +201,9 @@ button {
  @media only screen and (min-width: 992px) { 
   
   .card {
-    /* flex-direction: column; */
-    width: 30%;
+    width: 32%;
     display: block;
-    height: 200px;
+    height: 180px;
     
     
 
